@@ -1,0 +1,21 @@
+HOW TO RUN THIS SOFTWARE
+
+1. Make sure you have install Visual Studio Professional 2017
+2. Unzip FRAttendanceSystem as a folder
+3. Double click on FRAttendanceSystem folder to open its contents. 
+4. Double click on the solution file named FRAttendanceSystem, the one with 10 attached on the icon beside it
+
+
+To run the programme
+
+1. Goto to Debug menu and click on start debugging.
+
+ADMIN login credentials
+
+Username: admin
+Password: admin
+
+
+Goodluck!!!
+
+For more source code, visit: https://digital.netcletech.com/
